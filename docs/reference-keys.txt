@@ -23,7 +23,7 @@ appendix-letter
 appendix-vcr
 opening-vcr
 see-you-when-blossoms-vcr
-exchange-diaries-vcr
+exchange-diaries-vcrr
 shenshens-diaries-vcr
 related-shenshens
 review-vlog

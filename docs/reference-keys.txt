@@ -4,10 +4,11 @@ fig:unnamed-chunk-8
 fig:unnamed-chunk-10
 fig:unnamed-chunk-12
 fig:unnamed-chunk-14
-fig:unnamed-chunk-15
+fig:unnamed-chunk-16
 fig:unnamed-chunk-17
-fig:unnamed-chunk-18
 fig:unnamed-chunk-19
+fig:unnamed-chunk-20
+fig:unnamed-chunk-21
 ShangHai-20250517
 ShangHai-20250517-part1
 ShangHai-20250517-part2
@@ -42,6 +43,13 @@ XiAn-20250726-part2
 XiAn-20250726-part3
 XiAn-20250726-part4
 XiAn-20250726-part5
+XiAn-20250727
+HaErBin-20250809
+HaErBin-20250809-part1
+HaErBin-20250809-part2
+HaErBin-20250809-part3
+HaErBin-20250809-part4
+HaErBin-20250809-part5
 playlists
 appendix-gift
 appendix-letter

@@ -6,10 +6,11 @@ fig:unnamed-chunk-12
 fig:unnamed-chunk-14
 fig:unnamed-chunk-16
 fig:unnamed-chunk-18
-fig:unnamed-chunk-19
+fig:unnamed-chunk-20
 fig:unnamed-chunk-21
-fig:unnamed-chunk-22
 fig:unnamed-chunk-23
+fig:unnamed-chunk-24
+fig:unnamed-chunk-25
 ShangHai-20250517
 ShangHai-20250517-part1
 ShangHai-20250517-part2
@@ -53,6 +54,11 @@ HaErBin-20250809-part4
 HaErBin-20250809-part5
 HaErBin-20250810
 GuiYang-20250829
+GuiYang-20250829-part1
+GuiYang-20250829-part2
+GuiYang-20250829-part3
+GuiYang-20250829-part4
+GuiYang-20250829-part5
 GuiYang-20250830
 HangZhou-20250913
 HangZhou-20250914

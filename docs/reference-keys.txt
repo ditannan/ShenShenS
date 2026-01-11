@@ -7,10 +7,11 @@ fig:unnamed-chunk-14
 fig:unnamed-chunk-16
 fig:unnamed-chunk-18
 fig:unnamed-chunk-20
-fig:unnamed-chunk-21
+fig:unnamed-chunk-22
 fig:unnamed-chunk-23
-fig:unnamed-chunk-24
 fig:unnamed-chunk-25
+fig:unnamed-chunk-26
+fig:unnamed-chunk-27
 ShangHai-20250517
 ShangHai-20250517-part1
 ShangHai-20250517-part2
@@ -79,6 +80,11 @@ ShenZhen-20251206-part5
 ShenZhen-20251207
 HongKong-20251231
 HongKong-20260101
+HongKong-20260101-part1
+HongKong-20260101-part2
+HongKong-20260101-part3
+HongKong-20260101-part4
+HongKong-20260101-part5
 playlists
 appendix-gift
 appendix-letter
